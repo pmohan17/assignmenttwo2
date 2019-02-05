@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #FFE4E1;
+  font-family: Calibri, sans-serif;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+#container {
+  padding: 4em;
+  max-width: 900px;
+  margin: 30px auto;
+  background: #b76e79;
+
+}
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+p{
+  font-size: 20px;
+}
+a:visited{
+  color: #ffffff;
+}

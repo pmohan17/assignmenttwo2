@@ -1,0 +1,19 @@
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #000000;
+  background: #FFE4E1;
+  margin: 20px auto;
+}
+
+td, th {
+  font-size: inherit;
+  overflow: visible;
+  margin: 0;
+  padding: 3em;
+}
+td, th {
+  border-width: 0 0 1px 0;
+  border-bottom: 1px solid #000000;
+}
